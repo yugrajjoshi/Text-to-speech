@@ -36,6 +36,3 @@ A simple, browser-based text-to-speech web app.
 
 Modern browsers that implement the Web Speech API (for example, Chrome, Edge).
 
-## License
-
-MIT
