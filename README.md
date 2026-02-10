@@ -25,14 +25,12 @@ A simple, browser-based text-to-speech web app.
 - index.html — UI markup
 - style.css — styling
 - app.js — text-to-speech logic
-
+- 
 ## Usage
-
 1. Enter text in the input area.
 2. Select a voice and adjust settings if available.
 3. Click the button to play speech.
 
 ## Browser Support
-
 Modern browsers that implement the Web Speech API (for example, Chrome, Edge).
 
